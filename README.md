@@ -1,0 +1,1 @@
+# cosmectics-template
